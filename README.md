@@ -1,2 +1,2 @@
-# CS-433
-CSUSM Operating Systems
+# Ready queue
+For CSUSM CS 433 Operating Systems
