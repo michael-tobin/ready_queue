@@ -45,3 +45,5 @@ CMakeLists.txt
 *.exe
 *.out
 *.app
+
+.DS_Store
